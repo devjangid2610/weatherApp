@@ -1,0 +1,14 @@
+.weatherBg{
+  background: url("https://th.bing.com/th/id/OIP.Vk9F_w1p8yfkjUD1MJZqhgEsDI?pid=ImgDet&rs=1");
+  height: 40vh;
+  display: flex;
+  width: 800vh;
+  align-items : center;
+  flex-direction:column ;
+  justify-content: center;
+}
+
+.heading{
+  color: purple;
+  font-weight: 700;
+}
